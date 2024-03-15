@@ -11,7 +11,7 @@ import SwiftUI
 struct TinyBigMovieApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MovieGridView()
         }
     }
 }
